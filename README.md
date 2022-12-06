@@ -6,7 +6,7 @@ Hosted Application
 ==================
 A version of this application is available on GitHub Pages:
 
-https://rafasantos.github.io/twilio-sms-web
+https://eninodel.github.io/twilio-sms-web
 
 Twilio Account
 ==============
